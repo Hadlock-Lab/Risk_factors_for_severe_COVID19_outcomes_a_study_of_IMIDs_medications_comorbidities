@@ -38,5 +38,6 @@ National COVID Cohort Collaborative (N3C) data
 * [R_scripts_for_figures](https://github.com/Qi-ISB/Risk_factors_for_severe_COVID19_outcomes_a_study_of_IMIDs_medications_comorbidities/tree/main/R_scripts_for_figures) contains all R scripts used to generate figures in both main text and supplementary material
 
 ## Diagrammatic representation of the flowchart of patient selection
+![Figure 1: Cohort flow diagram for retrospective study of patients at PSJH = Providence St Joseph hospital or clinic in the U.S. (Alaska, California, Montana, New Mexico, Oregon, Washington, or Texas).](https://github.com/Qi-ISB/Risk_factors_for_severe_COVID19_outcomes_a_study_of_IMIDs_medications_comorbidities/blob/main/images/figure1.png)
 
 ## Results
