@@ -30,8 +30,6 @@ Information to be added upon publication.
 ## Training Dataset
 Used EHR records from PSJH system contains PHI information.
 
-## Public independent validation train dataset
-National COVID Cohort Collaborative (N3C) data
 
 ## Code Structure
 * [analyses_codes](https://github.com/Qi-ISB/Risk_factors_for_severe_COVID19_outcomes_a_study_of_IMIDs_medications_comorbidities/tree/main/analyses_codes) contains all analyses codes used to conduct all of the data preprocessing and analyses presented in the paper
