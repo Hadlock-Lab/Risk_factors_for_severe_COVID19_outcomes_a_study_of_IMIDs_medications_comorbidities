@@ -21,7 +21,9 @@ doi = {XXX}
 ```
 
 ## Installation
-
+* [envrionment_package_versions.csv](https://github.com/Qi-ISB/Risk_factors_for_severe_COVID19_outcomes_a_study_of_IMIDs_medications_comorbidities/blob/main/environment_package_versions.csv) contains full detail on the computational requirements & needed packages for codes of this repo.
+  
+  
 ## Introduction
 In this paper we analysed 15,397 patients with IMIDs, identified from a large US health care system data base regarding risk of COVID-19 infection and severe outcomes of 1) hospitalization or death, 2) mechanical ventilation or death and 3) death in two time periods of the pandemic, pre-Omicron and Omicron-predominant. Using multivariable logistic regression and a contemporary ML approach extreme gradient boosting, which demonstrated superior performance, we demonstrated that age and most chronic comorbidities were associated with worse outcomes of COVID-19 infection, whereas vaccination and boosters were associated with better outcomes. Patients with IMIDs had higher rates of hospitalisation and mortality than those without. However, apart from rheumatoid arthritis, specific IMIDs themselves did not show association with worse outcomes. Spondyloarthritis and psoriasis were associated with better outcomes, which merits further research. 
 
