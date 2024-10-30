@@ -20,6 +20,10 @@ journal = {The Lancet Digital Health},
 doi = {10.1016/S2589-7500(24)00021-9}
 }
 ```
+or using the following NLM format citation:
+```
+Wei Q, Mease PJ, Chiorean M, Iles-Shih L, Matos WF, Baumgartner A, Molani S, Hwang YM, Belhu B, Ralevski A, Hadlock J. Machine learning to understand risks for severe COVID-19 outcomes: a retrospective cohort study of immune-mediated inflammatory diseases, immunomodulatory medications, and comorbidities in a large US health-care system. Lancet Digit Health. 2024 May;6(5):e309-e322. doi: 10.1016/S2589-7500(24)00021-9. PMID: 38670740; PMCID: PMC11069366.
+```
 
 ## Installation
 * [envrionment_package_versions.csv](https://github.com/Qi-ISB/Risk_factors_for_severe_COVID19_outcomes_a_study_of_IMIDs_medications_comorbidities/blob/main/environment_package_versions.csv) contains full detail on the computational requirements & needed packages for codes of this repo.
