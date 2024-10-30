@@ -1,6 +1,6 @@
 # Risk_factors_for_severe_COVID19_outcomes_a_study_of_IMIDs_medications_comorbidities
 
-This contains the code used to conduct the analyses for Qi et al. 2022 paper on the analysis of Risk factors for severe COVID-19 outcomes: a study of immune-mediated inflammatory diseases, immunomodulatory medications, and comorbidities in a large US healthcare system
+This contains the code used to conduct the analyses for Qi et al. 2023 paper on the analysis of Risk factors for severe COVID-19 outcomes: a study of immune-mediated inflammatory diseases, immunomodulatory medications, and comorbidities in a large US healthcare system
 
 Code repository accompanying the published paper *"Risk factors for severe COVID-19 outcomes: a study of immune-mediated inflammatory diseases, immunomodulatory medications, and comorbidities in a large US healthcare system"* by Qi Wei,∗, Philip J. Mease,∗, Michael Chiorean, Lulu Iles-Shih, Wanessa F. Matos, Andrew Baumgartner, Sevda Molani, Yeon Mi Hwang, Basazin Belhu, Alexandra Ralevsi, Jennifer Hadlock,∗∗ *<Jornual name>*.
 
@@ -10,8 +10,8 @@ Your can cite my paper using the following bibtex citation:
 ```
 @article{article,
 author = {Qi Wei, Philip J. Mease, Michael Chiorean, Lulu Iles-Shih, Wanessa F. Matos, Andrew Baumgartner, Sevda Molani, Yeon Mi Hwang, Basazin Belhu, Alexandra Ralevsi, Jennifer Hadlock},
-year = {2022},
-month = {05},
+year = {2023},
+month = {06},
 pages = {309-322},
 title = {Risk factors for severe COVID-19 outcomes: a study of immune-mediated inflammatory diseases, immunomodulatory medications, and comorbidities in a large US healthcare system,
 volume = {6},
