@@ -4,7 +4,7 @@ This contains the code used to conduct the analyses for Qi et al. 2022 paper on 
 
 Code repository accompanying the published paper *"Risk factors for severe COVID-19 outcomes: a study of immune-mediated inflammatory diseases, immunomodulatory medications, and comorbidities in a large US healthcare system"* by Qi Wei,∗, Philip J. Mease,∗, Michael Chiorean, Lulu Iles-Shih, Wanessa F. Matos, Andrew Baumgartner, Sevda Molani, Yeon Mi Hwang, Basazin Belhu, Alexandra Ralevsi, Jennifer Hadlock,∗∗ *<Jornual name>*.
 
-You can find full text of my paper on this link: <[DOI link](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00021-9/fulltext)>
+You can find full text of my paper on this link: <[Paper link](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00021-9/fulltext)>
 
 Your can cite my paper using the following bibtex citation:
 ```
