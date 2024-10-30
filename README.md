@@ -11,12 +11,13 @@ Your can cite my paper using the following bibtex citation:
 @article{article,
 author = {Qi Wei, Philip J. Mease, Michael Chiorean, Lulu Iles-Shih, Wanessa F. Matos, Andrew Baumgartner, Sevda Molani, Yeon Mi Hwang, Basazin Belhu, Alexandra Ralevsi, Jennifer Hadlock},
 year = {2022},
-month = {XX},
-pages = {XXX},
+month = {05},
+pages = {309-322},
 title = {Risk factors for severe COVID-19 outcomes: a study of immune-mediated inflammatory diseases, immunomodulatory medications, and comorbidities in a large US healthcare system,
-volume = {XXX},
-journal = {XXX},
-doi = {XXX}
+volume = {6},
+issue = {5},
+journal = {The Lancet Digital Health},
+doi = {10.1016/S2589-7500(24)00021-9}
 }
 ```
 
